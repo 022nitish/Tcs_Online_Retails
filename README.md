@@ -1,8 +1,11 @@
-📊 Dashboard Features
-🔹 Monthly Revenue Trend – 2011
-Area chart showing how revenue fluctuated month by month
+![image](https://github.com/user-attachments/assets/65e0cbca-89ae-4a9b-adfd-9092d289354a)
+ 
+Dashboard Features
 
-Highlights peak performance in November
+🔹 Monthly Revenue Trend – 2011
+ Area chart showing how revenue fluctuated month by month
+
+ Highlights peak performance in November
 
 🔹 Top 10 Countries by Revenue (Excluding UK)
 Identifies key revenue-driving countries like Netherlands, Germany, and France
@@ -10,7 +13,6 @@ Identifies key revenue-driving countries like Netherlands, Germany, and France
 🔹 Customers by Revenue
 Highlights top customers contributing highest sales value
 
-Sorted descending for quick visibility
 
 🔹 Demand by Country
 Shows product demand volume per country
